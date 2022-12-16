@@ -6,13 +6,9 @@
 
 The code should be run using python 3.8.5.
 
-@Override
-
-protected void onDestroy() {
-
-    pip install requirements.txt
-
-}
+``` 
+pip install requirements.txt
+```
 
 ### File structure
 
@@ -23,12 +19,8 @@ protected void onDestroy() {
 
 ## To run
 
-@Override
-
-protected void onDestroy() {
-
+```
     cd dataset/
     ./run_all.sh
-
-}
+```
 
