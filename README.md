@@ -1,8 +1,8 @@
 # AugTest
 
-##AugTest:Efficient Generation of Valid Test Inputs for Deep Neural Networks via Gradient Search
+## AugTest:Efficient Generation of Valid Test Inputs for Deep Neural Networks via Gradient Search
 
-###Prerequisite
+### Prerequisite
 
 The code should be run using python 3.8.5.
 
@@ -14,14 +14,14 @@ protected void onDestroy() {
 
 }
 
-###File structure
+### File structure
 
 * GTSRB: GTSRB dataset.
 * SVHN: SVHN dataset.
 * Cifar10: Cifar10 dataset.
 * ImageNet: ImageNet dataset.
 
-##To run
+## To run
 
 @Override
 
