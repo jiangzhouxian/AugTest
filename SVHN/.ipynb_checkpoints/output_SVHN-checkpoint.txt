@@ -1,0 +1,135 @@
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for ResNet50********
+num_adv= 999
+ave_diver =  2.267681288886237
+error_1,error_2= 654 721
+error_rate= 0.6546546546546547 0.7217217217217218
+ave_search_time= 29.2972972972973
+Total time= 287.526118
+ave_time= 0.28781393193193194
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for ResNet50********
+num_adv= 927
+ave_diver =  2.1968436426329383
+error_1,error_2= 618 621
+error_rate= 0.6666666666666666 0.6699029126213593
+ave_search_time= 28.62675296655879
+Total time= 280.952294
+ave_time= 0.30307690830636463
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for ResNet50********
+num_adv= 928
+ave_diver =  2.2260011520622105
+error_1,error_2= 611 632
+error_rate= 0.6584051724137931 0.6810344827586207
+ave_search_time= 29.808189655172413
+Total time= 281.010812
+ave_time= 0.302813375
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for ResNet50********
+num_adv= 972
+ave_diver =  2.2029083228896185
+error_1,error_2= 653 635
+error_rate= 0.6718106995884774 0.6532921810699589
+ave_search_time= 27.641975308641975
+Total time= 283.243642
+ave_time= 0.2914029238683128
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for ResNet50********
+num_adv= 901
+ave_diver =  2.2027927672823315
+error_1,error_2= 589 574
+error_rate= 0.6537180910099889 0.6370699223085461
+ave_search_time= 30.481687014428413
+Total time= 277.160062
+ave_time= 0.3076138312985571
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for WideResNet50********
+num_adv= 942
+ave_diver =  2.182899490030455
+error_1,error_2= 636 556
+error_rate= 0.6751592356687898 0.5902335456475584
+ave_search_time= 27.914012738853504
+Total time= 385.427018
+ave_time= 0.40915819320594476
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for WideResNet50********
+num_adv= 1017
+ave_diver =  2.2055052151956622
+error_1,error_2= 662 602
+error_rate= 0.6509341199606686 0.591937069813176
+ave_search_time= 28.48967551622419
+Total time= 1770.65677
+ave_time= 1.7410587708947887
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for WideResNet50********
+num_adv= 1047
+ave_diver =  2.1886514975211684
+error_1,error_2= 682 615
+error_rate= 0.6513849092645654 0.5873925501432665
+ave_search_time= 27.457497612225406
+Total time= 12232.156283
+ave_time= 11.683052801337155
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for WideResNet50********
+num_adv= 958
+ave_diver =  2.176782480734624
+error_1,error_2= 611 629
+error_rate= 0.6377870563674322 0.6565762004175365
+ave_search_time= 29.541753653444676
+Total time= 2043.46058
+ave_time= 2.1330486221294365
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for WideResNet50********
+num_adv= 941
+ave_diver =  2.2320026991597905
+error_1,error_2= 608 588
+error_rate= 0.6461211477151966 0.6248671625929861
+ave_search_time= 28.87778958554729
+Total time= 374.468151
+ave_time= 0.3979470255047821
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for SqueezeNet********
+num_adv= 872
+ave_diver =  2.174675366473854
+error_1,error_2= 664 605
+error_rate= 0.7614678899082569 0.6938073394495413
+ave_search_time= 29.924311926605505
+Total time= 237.788483
+ave_time= 0.2726932144495413
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for SqueezeNet********
+num_adv= 838
+ave_diver =  2.233192068864736
+error_1,error_2= 603 569
+error_rate= 0.7195704057279236 0.6789976133651552
+ave_search_time= 27.957040572792362
+Total time= 238.238115
+ave_time= 0.28429369331742244
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for SqueezeNet********
+num_adv= 870
+ave_diver =  2.249794390420804
+error_1,error_2= 562 522
+error_rate= 0.6459770114942529 0.6
+ave_search_time= 29.502298850574714
+Total time= 234.520902
+ave_time= 0.2695642551724138
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for SqueezeNet********
+num_adv= 918
+ave_diver =  2.2240884793609834
+error_1,error_2= 651 648
+error_rate= 0.7091503267973857 0.7058823529411765
+ave_search_time= 28.706971677559913
+Total time= 236.713354
+ave_time= 0.2578576840958606
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for SqueezeNet********
+num_adv= 921
+ave_diver =  2.2084782778504874
+error_1,error_2= 606 544
+error_rate= 0.6579804560260586 0.5906623235613464
+ave_search_time= 30.996742671009773
+Total time= 235.349499
+ave_time= 0.2555369153094463

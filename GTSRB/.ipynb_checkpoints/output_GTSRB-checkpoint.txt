@@ -1,0 +1,120 @@
+*****Test for ResNet50******** 
+num_adv= 911
+ave_diver =  25.621007634570123
+error_1,error_2= 720 552
+error_rate= 0.7903402854006586 0.605927552140505
+ave_search_time= 27.26673984632272
+Total time= 798.984014
+ave_time= 0.8770406300768386
+*****Test for ResNet50******** 
+num_adv= 923
+ave_diver =  25.593972777493725
+error_1,error_2= 735 634
+error_rate= 0.7963163596966414 0.6868905742145178
+ave_search_time= 28.201516793066087
+Total time= 799.063502
+ave_time= 0.8657242708559046
+*****Test for ResNet50******** 
+num_adv= 925
+ave_diver =  25.59436724482356
+error_1,error_2= 732 628
+error_rate= 0.7913513513513514 0.6789189189189189
+ave_search_time= 28.357837837837838
+Total time= 796.080023
+ave_time= 0.8606270518918919
+*****Test for ResNet50******** 
+num_adv= 854
+ave_diver =  25.288710560675806
+error_1,error_2= 687 570
+error_rate= 0.8044496487119438 0.667447306791569
+ave_search_time= 28.23302107728337
+Total time= 800.721234
+ave_time= 0.9376126861826698
+*****Test for ResNet50******** 
+num_adv= 919
+ave_diver =  25.712994591066444
+error_1,error_2= 734 626
+error_rate= 0.7986942328618063 0.6811751904243744
+ave_search_time= 28.509249183895538
+Total time= 799.534679
+ave_time= 0.8700050914036996
+*****Test for WideResNet50******** 
+num_adv= 1119
+ave_diver =  25.451659416491907
+error_1,error_2= 737 759
+error_rate= 0.6586237712243074 0.67828418230563
+ave_search_time= 27.588025022341377
+Total time= 875.036142
+ave_time= 0.7819804664879357
+*****Test for WideResNet50******** 
+num_adv= 1186
+ave_diver =  25.70580800910422
+error_1,error_2= 733 767
+error_rate= 0.6180438448566611 0.6467116357504216
+ave_search_time= 28.925801011804385
+Total time= 869.979927
+ave_time= 0.7335412537942664
+*****Test for WideResNet50******** 
+num_adv= 1048
+ave_diver =  25.81623922595541
+error_1,error_2= 628 650
+error_rate= 0.5992366412213741 0.6202290076335878
+ave_search_time= 28.338740458015266
+Total time= 875.953861
+ave_time= 0.835833836832061
+*****Test for WideResNet50******** 
+num_adv= 1125
+ave_diver =  25.76009187825521
+error_1,error_2= 753 756
+error_rate= 0.6693333333333333 0.672
+ave_search_time= 29.373333333333335
+Total time= 874.028696
+ave_time= 0.7769143964444444
+*****Test for WideResNet50******** 
+num_adv= 1131
+ave_diver =  25.79591959372334
+error_1,error_2= 721 731
+error_rate= 0.6374889478337754 0.6463306808134395
+ave_search_time= 30.02740937223696
+Total time= 879.773005
+ave_time= 0.7778717992926614
+*****Test for SqueezeNet******** 
+num_adv= 813
+ave_diver =  25.73118478462998
+error_1,error_2= 529 629
+error_rate= 0.6506765067650676 0.7736777367773677
+ave_search_time= 29.719557195571955
+Total time= 648.326643
+ave_time= 0.7974497453874538
+*****Test for SqueezeNet******** 
+num_adv= 812
+ave_diver =  25.554303984336666
+error_1,error_2= 563 643
+error_rate= 0.6933497536945813 0.791871921182266
+ave_search_time= 29.445812807881772
+Total time= 652.812183
+ave_time= 0.8039558903940887
+*****Test for SqueezeNet******** 
+num_adv= 960
+ave_diver =  25.612139242887498
+error_1,error_2= 642 805
+error_rate= 0.66875 0.8385416666666666
+ave_search_time= 29.339583333333334
+Total time= 633.539933
+ave_time= 0.6599374302083334
+*****Test for SqueezeNet******** 
+num_adv= 772
+ave_diver =  25.680549890883846
+error_1,error_2= 567 657
+error_rate= 0.7344559585492227 0.8510362694300518
+ave_search_time= 30.379533678756477
+Total time= 645.53191
+ave_time= 0.8361812305699482
+*****Test for SqueezeNet******** 
+num_adv= 898
+ave_diver =  26.006302077414464
+error_1,error_2= 595 735
+error_rate= 0.6625835189309577 0.8184855233853007
+ave_search_time= 29.87305122494432
+Total time= 634.572519
+ave_time= 0.7066509120267261

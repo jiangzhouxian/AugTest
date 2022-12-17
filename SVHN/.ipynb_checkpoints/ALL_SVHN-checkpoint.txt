@@ -1,0 +1,34 @@
+
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for ResNet50********
+num_adv= 885
+ave_diver =  2.2068203517946148
+ave_geo =  34.63440106053595
+error_1,error_2= 545 580
+error_rate= 0.615819209039548 0.655367231638418
+Total time= 233.81034
+ave_time= 0.2641924745762712
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for WideResNet50********
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for SqueezeNet********
+num_adv= 821
+ave_diver =  2.2099619843927862
+ave_geo =  32.1656470165373
+error_1,error_2= 548 541
+error_rate= 0.6674786845310596 0.658952496954933
+Total time= 173.759457
+ave_time= 0.21164367478684531
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for WideResNet50********
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for WideResNet50********
+Using downloaded and verified file: ./Dataset/test_32x32.mat
+*****Test for WideResNet50********
+num_adv= 1043
+ave_diver =  2.2125972824837308
+ave_geo =  27.352050707245517
+error_1,error_2= 661 651
+error_rate= 0.6337488015340365 0.6241610738255033
+Total time= 305.032273
+ave_time= 0.2924566375838926
